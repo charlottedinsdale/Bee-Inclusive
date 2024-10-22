@@ -40,6 +40,9 @@ a {
     margin-right: 5px;
 }
 
+.bee-card {
+    max-width: 80px;
+}
 
 /********** NAVBAR **********/
 
