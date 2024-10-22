@@ -21,7 +21,7 @@
     <header>
         <nav id="navbar" class="navbar navbar-expand-lg fixed-top bg-body-tertiary">
             <div class="container-xxl navbar-container">
-                <a href="#" class="navbar-brand-text heading fw-bold bee-title-link" aria-label="Bee Inclusive-Homepage">
+                <a href="index.html" class="navbar-brand-text heading fw-bold bee-title-link" aria-label="Bee Inclusive-Homepage">
                    <span><img src="assets/images/bee-icon-borderised-small.webp" alt="bee inclusive logo" class="bee-logo"></span> <h1 class="bee-title">Bee Inclusive</h1>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
@@ -31,23 +31,20 @@
                 <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
                     <ul class="nav navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link" href="#"
+                            <a class="nav-link" href="index.html#what-section"
                                 aria-label="What is diversity and inclusion?"><strong>What</strong> is Diversity and
                                 Inclusion?</a>
                         </li>
                         <li>
-                            <a class="nav-link" href="#" aria-label="Why be inclusive?"><strong>Why</strong> be
+                            <a class="nav-link" href="index.html#why-section" aria-label="Why be inclusive?"><strong>Why</strong> be
                                 Inclusive?</a>
                         </li>
                         <li>
-                            <a class="nav-link" href="#" aria-label="How to be inclusive"><strong>How</strong> to be
+                            <a class="nav-link" href="index.html#how-section" aria-label="How to be inclusive"><strong>How</strong> to be
                                 Inclusive</a>
                         </li>
                         <li>
-                            <a class="nav-link" href="#" aria-label="Resources">Resources</a>
-                        </li>
-                        <li>
-                            <a class="nav-link" href="signup.html" aria-label="Sign Up">Sign Up</a>
+                            <a class="nav-link" href="index.html#resources-section" aria-label="Resources">Resources</a>
                         </li>
                     </ul>
                 </div>
@@ -55,24 +52,43 @@
         </nav>
     </header>
     <main>
-
+      <section id="signup">
+            <div class="px-4 pb-5 text-center justify-content-center hero-section-text">
+              <img class="section-img d-block mx-auto" src="assets/images/bee-hero.webp" alt="Bees around honeycomb">
+              <div class="col-lg-6 mx-auto">
+                <form id="signup-form">
+                    <fieldset>
+                        <legend><h3>Sign Up With Your Business Email to Receive Your FREE Resource Pack!</h3></legend>
+                        <label id="fname-label" for="fname"><p>First Name</p></label>
+                        <input type="text" name="fname" id="fname" required>
+                        <br>
+                        <label id="lname-label" for="lname"><p>Last Name</p></label>
+                        <input type="text" name="lname" id="lname" required>
+                        <br>
+                        <label id="email-label" for="fname"><p>Email Address</p></label>
+                        <input type="email" name="email" id="email" required>
+                        <br>
+                        <a id="submit-button" href="#" class="btn btn-outline-primary">Submit</a>
+                    </fieldset>
+                </form>
+            </div>
+      </section>
     </main>
-    <footer>
-        <div class="container-fluid footer-container">
-            <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 border-top">
-              <p class="col-md-4 mb-0">Charlotte Dinsdale 2024<a href="https://github.com/charlottedinsdale" target="_blank"><span><i class="fa fa-github"></i></span></a></p>
-              <a href="/" class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
-                <img src="assets/images/bee-icon-borderised-small.webp" width="40" height="40">
-              </a>
-              <ul class="nav col-md-4 justify-content-end">
-                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary"><i class="fa fa-facebook"></i></a></li>
-                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary"><i class="fa fa-instagram"></i></a></li>
-                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary"><i class="fa fa-twitter"></i></a></li>
-                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary"><i class="fa fa-youtube"></i></a></li>
-              </ul>
-            </footer>
-          </div>
+<!-- Footer -->
+<div class="container-fluid footer-container">
+    <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 border-top">
+      <p class="col-md-4 mb-0">Charlotte Dinsdale 2024<a href="https://github.com/charlottedinsdale" target="_blank"><span><i class="fa fa-github"></i></span></a></p>
+      <a href="/" class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
+        <img src="assets/images/bee-icon-borderised-small.webp" width="40" height="40">
+      </a>
+      <ul class="nav col-md-4 justify-content-end">
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary"><i class="fa fa-facebook"></i></a></li>
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary"><i class="fa fa-instagram"></i></a></li>
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary"><i class="fa fa-twitter"></i></a></li>
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary"><i class="fa fa-youtube"></i></a></li>
+      </ul>
     </footer>
+  </div>
     <script src="https://kit.fontawesome.com/b205b6285d.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous">

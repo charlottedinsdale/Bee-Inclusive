@@ -14,7 +14,7 @@ h1, h2, h3 {
     font-weight: 700;
 }
 
-p {
+p, h4 {
     font-family: "Zilla Slab", sans-serif;
     font-weight: 500 !important;
 }
@@ -102,12 +102,37 @@ a {
 #signup-button {
     color: #B6465F;
     border-color: #B6465F;
+    margin-top: 20px;
 }
 
-#signup-button:hover, #signup-button:active, #signupbutton:focus {
+#signup-button:hover, #signup-button:active {
     color: #03CEA4;
     background-color: #B6465F;
 }
+
+/********** SIGNUP PAGE **********/
+#signup {
+    background-color: #03CEA4;
+}
+
+#submit-button {
+    color: #B6465F;
+    border-color: #B6465F;
+}
+
+#submit-button:hover, #submit-button:active {
+    color: #03CEA4;
+    background-color: #B6465F;
+}
+
+#submit-button {
+    margin-top: 20px;
+}
+
+#fname-label, #lname-label, #email-label {
+    margin-right: 10px;
+}
+
 
 /********** FOOTER **********/
 
