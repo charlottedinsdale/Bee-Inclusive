@@ -27,6 +27,14 @@ a {
     display: inline;
 }
 
+.bee-title-link h1:active, .bee-title-link h1:hover, .bee-title-link h1:focus {
+    color: #f1d7a3;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;   
+    -o-transition: all .5s ease-in-out; 
+}
+
 .bee-logo {
     padding-bottom: 18px;
     margin-right: 5px;
@@ -54,7 +62,7 @@ a {
 }
 
 .navbar-brand-text, .nav-link a:active, .nav-link:hover, .nav-link:focus{
-    color: #f1d7a3
+    color: #f1d7a3;
 }
 
 .navbar-container {
@@ -77,14 +85,14 @@ a {
 }
 
 .hero-section-text {
-    color: #33032F
+    color: #B6465F;
 }
 
 .section-img {
     width: 100%;
     max-width: 400px;
     height: auto;
-    padding-top: 20px;
+    padding-top: 35px;
 }
 
 .hero-section-text p {
@@ -101,6 +109,10 @@ a {
 
 .footer-container i {
     color: #f1d7a3;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;   
+    -o-transition: all .5s ease-in-out; 
 }
 
 .footer-container i:hover {
