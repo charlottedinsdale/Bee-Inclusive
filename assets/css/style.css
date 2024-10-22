@@ -98,6 +98,17 @@ a {
 .hero-section-text p {
     font-size: 1.8rem;
 }
+
+#signup-button {
+    color: #B6465F;
+    border-color: #B6465F;
+}
+
+#signup-button:hover, #signup-button:active, #signupbutton:focus {
+    color: #03CEA4;
+    background-color: #B6465F;
+}
+
 /********** FOOTER **********/
 
 .footer-container {
