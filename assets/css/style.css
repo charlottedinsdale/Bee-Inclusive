@@ -110,6 +110,26 @@ a {
     background-color: #B6465F;
 }
 
+/*What-Section*/
+#what-section {
+    background-color: #8D98A7;
+}
+
+/*Why-Section*/
+#why-section {
+    background-color: #B6465F;
+}
+
+/*How-Section*/
+#how-section {
+    background-color: #FFC857;
+}
+
+/*Resources-Section*/
+#resources-section {
+    background-color: #03CEA4;
+}
+
 /********** SIGNUP PAGE **********/
 #signup {
     background-color: #03CEA4;
