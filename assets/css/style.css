@@ -14,13 +14,17 @@ h1, h2, h3 {
     font-weight: 700;
 }
 
-p, h4 {
+p, h4, li {
     font-family: "Zilla Slab", sans-serif;
     font-weight: 500 !important;
 }
 
 a {
     text-decoration: none;
+}
+
+main a {
+    color: #B6465F;
 }
 
 .bee-logo, .bee-title {
@@ -41,7 +45,7 @@ a {
 }
 
 .bee-card {
-    max-width: 80px;
+    max-width: 60px;
 }
 
 /********** NAVBAR **********/
