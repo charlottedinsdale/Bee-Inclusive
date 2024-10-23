@@ -1,8 +1,7 @@
 # Bee Inclusive
 
-### Welcome to Bee Inclusive, a websi<img width="777" alt="Am I Responsive" src="https://github.com/user-attachments/assets/bda5683a-0f45-4aa8-a354-3a6977143311">
-te designed to provide usefull and accessible information for employers and employees on diveristy and inclusion in the workplace.
-
+### Welcome to Bee Inclusive, a website designed to provide usefull and accessible information for employers and employees on diveristy and inclusion in the workplace.
+<img width="777" alt="Am I Responsive" src="https://github.com/user-attachments/assets/bda5683a-0f45-4aa8-a354-3a6977143311">
 ### Target Audience
 The target audience is businesses and employers who want to better understand the concepts of diversity and inclusion and why and how it should be important in their workplace. It will also be aimed at employees who wish to better understand D&I and how their employer should foster an inclusive environment at work, as well as providing them with links to external resources.
 
