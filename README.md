@@ -1,6 +1,7 @@
 # Bee Inclusive
 
-### Welcome to Bee Inclusive, a website designed to provide usefull and accessible information for employers and employees on diveristy and inclusion in the workplace.
+### Welcome to Bee Inclusive, a websi<img width="777" alt="Am I Responsive" src="https://github.com/user-attachments/assets/bda5683a-0f45-4aa8-a354-3a6977143311">
+te designed to provide usefull and accessible information for employers and employees on diveristy and inclusion in the workplace.
 
 ### Target Audience
 The target audience is businesses and employers who want to better understand the concepts of diversity and inclusion and why and how it should be important in their workplace. It will also be aimed at employees who wish to better understand D&I and how their employer should foster an inclusive environment at work, as well as providing them with links to external resources.
@@ -26,9 +27,16 @@ The target audience is businesses and employers who want to better understand th
   **Acceptance Criteria:** An interactive quiz must be available under a relevant section (e.g., “Assess Your Organization”).
 
 ## Design Decisions
+The bee theme was chosen as a reference to the "hive-mind" concept and their incredible ability to work together to creat something beautiful - shown in the honeycomb hero image.
+
+Colour Scheme was generated using Coolors and refernces colours from the hero image. Font colours were checked against the background colours to ensure readability and adherence to accesibility standards. Fonts "Oxanium" for titles and "Zilla Slab" for main body text were imported from Google Fonts and chosen due to the geometic 
+<img width="953" alt="Colourscheme" src="https://github.com/user-attachments/assets/b4ff1a12-fa60-4cb1-940d-c6644f94342b">
 
 ### Wireframes
-![UI](assets/readme-images/Am I Responsive.png) 
+
+<img width="265" alt="Desktop Wireframe" src="https://github.com/user-attachments/assets/0ee44024-ae3c-4aea-8498-6317034161df">
+<img width="167" alt="Tablet Wireframe" src="https://github.com/user-attachments/assets/674f8b6e-96d3-468a-9c58-eed5ef9fefbb">
+<img width="129" alt="Mobile Wireframe" src="https://github.com/user-attachments/assets/9d87277d-bb99-4ee7-bc6a-f7d9a69860fe">
 
 
 ### Accessibility Considerations
