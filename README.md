@@ -28,19 +28,22 @@ The target audience is businesses and employers who want to better understand th
 ## Design Decisions
 
 ### Wireframes
-Include wireframes for key sections of your website.  
-Briefly describe the design choices, including layout, colour schemes, and fonts.  
-**Guidance:** Start this section during Phase 1: Ideation & Initial Setup and update it throughout Phase 2 and Phase 3. Include digital wireframes created in Phase 1. Document the reasoning behind your layout choices, colour schemes, and font selections.
+![UI](assets/readme-images/Am I Responsive.png) 
+
 
 ### Accessibility Considerations
-Discuss how accessibility guidelines were adhered to, including colour contrast and alt text for images.  
-**Guidance:** Outline how you've incorporated accessibility into your design, ensuring that your project adheres to guidelines such as WCAG.
+Colour contrast standards were adhered to throughout and aria-labels were useed for all links alongside alt tags for images.  
+
 
 ## AI Tools Usage
 
-### DALL-E
-Describe how DALL-E was used for image generation, including examples of successes and challenges.  
-**Guidance:** Specifically mention how you used DALL-E for image generation and the impact this had on your design process.
+### FreePiks
+
+I used FreePiks to find and/or generate my images and logos as well as to remover the background from these images
+
+### ChatGPT
+I used ChatGPT to prompt my research and to find links to research to include in my resources section.
+
 
 ## Features Implementation
 
@@ -73,15 +76,7 @@ Describe how GitHub Copilot assisted in coding, including any challenges or adju
 
 ## Testing and Validation
 
-### Testing Results
-Summarize the results of testing across different devices and screen sizes.  
-Mention any issues found and how they were resolved.  
-**Guidance:** Summarize the results of your testing across various devices using tools like Chrome DevTools, as outlined in Phase 2. Mention any issues found and how they were resolved.
-
-### Validation
-Discuss the validation process for HTML and CSS using W3C and Jigsaw validators.  
-Include the results of the validation process.  
-**Guidance:** Document your use of W3C and Jigsaw validators to ensure your HTML and CSS meet web standards. Include any errors or warnings encountered and how they were resolved.
+HTML and CSS was tested on the W3C code validator and passed
 
 ## AI Tools Usage
 
@@ -92,10 +87,7 @@ Brief reflection on the effectiveness of using AI tools for debugging and valida
 ## Deployment
 
 ### Deployment Process
-Briefly describe the deployment process to GitHub Pages or another cloud platform.  
-Mention any specific challenges encountered during deployment.  
-**Guidance:** Describe the steps you took to deploy your website during Phase 4: Final Testing, Debugging & Deployment, including any challenges encountered.
-
+Site was deployed through GitHub Pages and the deployed site was regularly checked for bugs during development.
 ## AI Tools Usage
 
 ### Reflection
@@ -119,6 +111,5 @@ Properly attribute any external code sources used in the project (excluding GitH
 **Guidance:** Document any external code sources used throughout the entire project, especially during Phase 2 and Phase 3. Exclude GitHub Copilot-generated code from attribution.
 
 ## Future Improvements
-Briefly discuss potential future improvements or features that could be added to the project.  
-**Guidance:** Reflect on potential enhancements that could be made to the project after Phase 4: Final Testing, Debugging & Deployment. These could be Could user story features you didn’t have time to implement or improvements based on testing feedback.
+Given more time, more content would've been added to the page that unfortunately was lost in the final stages of development. More pages including differennt content types such as video would also benefit the project in the future.
 
