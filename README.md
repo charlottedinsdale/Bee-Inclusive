@@ -66,21 +66,10 @@ I used ChatGPT to prompt my research and to find links to research to include in
 - **Feature 1:** Downloadable PDF resource pack for businesses.
 - **Feature 2:** Diversity assessment quiz.
 
-## AI Tools Usage
-
-### GitHub Copilot
-Describe how GitHub Copilot assisted in coding, including any challenges or adjustments needed.  
-**Guidance:** Reflect on how GitHub Copilot assisted in coding, particularly any challenges or adjustments that were needed to align with project goals.
-
 ## Testing and Validation
 
 HTML and CSS was tested on the W3C code validator and passed
 
-## AI Tools Usage
-
-### GitHub Copilot
-Brief reflection on the effectiveness of using AI tools for debugging and validation.  
-**Guidance:** Reflect on how GitHub Copilot assisted with debugging and validation, particularly any issues it helped resolve.
 
 ## Deployment
 
@@ -95,18 +84,13 @@ Describe the role AI tools played in the deployment process, including any benef
 ## Reflection on Development Process
 
 ### Successes
-Effective use of AI tools, including GitHub Copilot and DALL-E, and how they contributed to the development process.
+I generated my own favicon and learned how to create images easily using AI such as FreePiks which I will deinitley employ for future design projects. I also put into practise Bootstrap which was highly benificial to my overall understanding and made the design process far easier.
 
 ### Challenges
-Describe any challenges faced when integrating AI-generated content and how they were addressed.
-
-### Final Thoughts
-Provide any additional insights gained during the project and thoughts on the overall process.  
-**Guidance:** Begin drafting reflections during Phase 1 and update throughout the project. Finalize this section after Phase 4. Highlight successes and challenges, particularly regarding the use of AI tools, and provide overall insights into the project.
+I had some time pressures towards the end after losing some HTML code for my content and didn't have as much time to refine - on xl screens the navbar isn't rendered properly and my content is not fleshed out.
 
 ## Code Attribution
-Properly attribute any external code sources used in the project (excluding GitHub Copilot-generated code).  
-**Guidance:** Document any external code sources used throughout the entire project, especially during Phase 2 and Phase 3. Exclude GitHub Copilot-generated code from attribution.
+I used code from the Bootsrap v5 library and some small snippets from StackOverflow users to help with customising bootstrap components. Otherwise, all code was written by myself thanks to the training I have undertaken so far at the Code Institute.
 
 ## Future Improvements
 Given more time, more content would've been added to the page that unfortunately was lost in the final stages of development. More pages including differennt content types such as video would also benefit the project in the future.
